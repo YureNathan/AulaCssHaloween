@@ -25,3 +25,11 @@ div {
     border: solid crimson 1px;
     width: 300px;
 }
+
+footer {
+    background-color: black;
+}
+
+li {
+    color: orangered;
+}
