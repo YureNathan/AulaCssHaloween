@@ -32,4 +32,5 @@ footer {
 
 li {
     color: orangered;
+    list-style: none;
 }
